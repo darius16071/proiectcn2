@@ -1,8 +1,7 @@
 //-----------------------------------------------------
 // Modul SRT Radix-2 Divider (8/8 bit -> 8 bit Q, 8 bit R, Unsigned)
 // Implementare Non-Restoring.
-// Autor: [Numele Tau/AI]
-// Data: [Data Curenta]
+
 //-----------------------------------------------------
 module srt_radix2_divider_8bit (
     input  wire       clk,
